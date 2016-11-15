@@ -98,3 +98,18 @@ description: My new project
 root_package: com.russmiles
 service_class_name: ComplaintsAPI
 
+####
+
+# editor info
+name: atomist-project-templates.axon-demo-sample.AddAxonToMavenProject
+group: atomist-project-templates
+artifact: axon-demo-sample
+version: 0.1.1
+
+# backing git repo
+repo: atomist-project-templates/axon-demo-sample.git
+branch: master
+sha: 4e2bd53
+
+# parameter values
+
